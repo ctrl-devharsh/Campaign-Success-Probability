@@ -45,7 +45,7 @@ returning customers during peak season — the opposite of what a
 loyalty-driven assumption would predict — which reframes where the
 marketing budget should go.
 
-![Binomial distribution of expected campaign sales](images/campaign_binomial_distribution.png)
+![Binomial distribution of expected campaign sales]  (images/campaign_binomial_distribution.png)
 
 *Probability distribution of sales outcomes for 500 sessions at the
 boosted purchase rate. The 100-sale target sits well below the distribution's
